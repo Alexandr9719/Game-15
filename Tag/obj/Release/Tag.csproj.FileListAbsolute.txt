@@ -1,0 +1,9 @@
+F:\Games\Programming\Projects C#\Tag\Tag\bin\Release\Tag.exe.config
+F:\Games\Programming\Projects C#\Tag\Tag\bin\Release\Tag.exe
+F:\Games\Programming\Projects C#\Tag\Tag\bin\Release\Tag.pdb
+F:\Games\Programming\Projects C#\Tag\Tag\obj\Release\Tag.Form1.resources
+F:\Games\Programming\Projects C#\Tag\Tag\obj\Release\Tag.Properties.Resources.resources
+F:\Games\Programming\Projects C#\Tag\Tag\obj\Release\Tag.csproj.GenerateResource.Cache
+F:\Games\Programming\Projects C#\Tag\Tag\obj\Release\Tag.exe
+F:\Games\Programming\Projects C#\Tag\Tag\obj\Release\Tag.pdb
+F:\Games\Programming\Projects C#\Tag\Tag\obj\Release\Tag.csprojResolveAssemblyReference.cache
